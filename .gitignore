@@ -39,10 +39,7 @@ uploaded/
 
 # Model output directories
 saved_models/
-shap_outputs/
-drift_reports/
-output_screenshots/
-Eda Insight Reports/
+
 
 # Flask cache
 instance/
